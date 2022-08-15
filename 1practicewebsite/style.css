@@ -1,0 +1,40 @@
+body{
+    background:white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    line-height: 1.6em;
+    margin:10px;
+}
+
+.container{
+    width:75%;
+    margin:auto;
+    overflow:hidden;
+}
+
+#main-header{
+    background: green;
+    color:white;
+    text-shadow: black 2px 2px;
+}
+
+#navbar{
+    background:green
+}
+
+#navbar ul{
+    padding:0;
+    list-style: none;
+}
+
+#navbar li{
+    display:inline;
+}
+
+#navbar a{
+    color:white;
+    text-decoration:none;
+    font: size 20px;
+    font-weight:bold;
+    text-shadow: black 2px 2px;
+}
